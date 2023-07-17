@@ -1,0 +1,28 @@
+*{
+    margin: 0;  
+    box-sizing: border-box;
+
+}
+.upload-icon{
+    font-size:30px;
+    margin-top: 50px;
+    color:#4CAF50;
+    display: flex;
+    justify-content: center;
+    align-items:center
+     
+
+}
+
+.upload-icon:hover{
+    color: black;
+    cursor: pointer;
+}
+.myBtn{
+    font-size: medium;
+    margin-top: 65px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    
+}
